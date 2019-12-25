@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'GoodDog Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('GoodDog Regular'), url('./fonts/gooddog_[allfont.ru].ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'GoodDogCool Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('GoodDogCool Regular'), url('./fonts/GOODDC__.TTF') format('truetype');
+}
+@font-face {
+    font-family: 'MyriadPro Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('MyriadPro Regular'), url('./fonts/MyriadPro-Regular.woff') format('woff');
+}
+@font-face {
+    font-family: 'MyriadPro LightIt';
+    font-style: normal;
+    font-weight: normal;
+    src: local('MyriadPro LightIt'), url('./fonts/MyriadPro-LightIt.woff') format('woff');
+}
+@font-face {
+    font-family: 'MyriadPro Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('MyriadPro Bold'), url('./fonts/MyriadPro-Bold.woff') format('woff');
+}
